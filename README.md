@@ -1,4 +1,4 @@
-## Hello dev`s!
+## Hello everyone!
 
 <div>
   
