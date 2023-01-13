@@ -1,7 +1,7 @@
 ## Hello everyone!
 
 
-<div  align="center"> </vr>
+<div  align="center"></hr>
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h2 align="center">Best`s Tech</h2>
