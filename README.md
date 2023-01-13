@@ -1,10 +1,5 @@
 ## Hello everyone!
 
-<div>
-  
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasATsouza&theme=blue-green"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasATsouza&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
