@@ -3,8 +3,9 @@
 
 ##### ...this profile is being updated />
 
+
 <br><hr>
-<div style="text-align: center; align-items: center">
+<div align="center">
   <h3><u>Knowledge</u></h3>
   
   <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,4 +25,4 @@
   <img height="30" width="30" alt="cdr-icon" src="https://seeklogo.com/images/C/coreldraw-2019-logo-73390B2962-seeklogo.com.png">&nbsp
   <img height="30" width="30" alt="figma-icon" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU">&nbsp
   <img height="30" width="30" alt="ps-icon" src="https://cdn-icons-png.flaticon.com/512/541/541586.png">
-  </div>
+  </div><br><hr>
